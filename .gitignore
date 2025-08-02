@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+env/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest
+.cache/
+
+# MacOS
+.DS_Store
+
+# Model files
+models/*.pkl
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+
+# Data files (optional - remove if you want to keep them in repo)
+data/*.csv
