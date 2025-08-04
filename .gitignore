@@ -23,8 +23,7 @@ env/
 # MacOS
 .DS_Store
 
-# Model files
-models/*.pkl
+
 
 # Streamlit cache
 .streamlit/
