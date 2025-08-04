@@ -18,7 +18,7 @@ This is a simple yet powerful Fake News Detection system built with Python, Natu
 
 - **Language**: Python  
 - **ML/NLP**: scikit-learn, nltk  
-- **Frontend (UI)**: Streamlit (optional)  
+- **Frontend (UI)**: Streamlit  
 - **Data**: [Kaggle Fake & Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 
 ---
