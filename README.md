@@ -23,22 +23,6 @@ This is a simple yet powerful Fake News Detection system built with Python, Natu
 
 ---
 
-## 📁 Project Structure
-
-fake-news-detector/
-├── data/ # Contains Fake.csv and True.csv
-├── models/ # Saved ML model and TF-IDF vectorizer
-├── utils/
-│ └── preprocessing.py # Text preprocessing functions
-├── train.py # Training script
-├── predict.py # Terminal-based prediction
-├── app.py # Streamlit web app
-├── requirements.txt # Python dependencies
-└── README.md
-
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
