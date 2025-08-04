@@ -18,24 +18,8 @@ This is a simple yet powerful Fake News Detection system built with Python, Natu
 
 - **Language**: Python  
 - **ML/NLP**: scikit-learn, nltk  
-- **Frontend (UI)**: Streamlit (optional)  
+- **Frontend (UI)**: Streamlit  
 - **Data**: [Kaggle Fake & Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
-
----
-
-## 📁 Project Structure
-
-fake-news-detector/
-├── data/ # Contains Fake.csv and True.csv
-├── models/ # Saved ML model and TF-IDF vectorizer
-├── utils/
-│ └── preprocessing.py # Text preprocessing functions
-├── train.py # Training script
-├── predict.py # Terminal-based prediction
-├── app.py # Streamlit web app
-├── requirements.txt # Python dependencies
-└── README.md
-
 
 ---
 
